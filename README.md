@@ -1,1 +1,1 @@
-# partner-search
+# partner-match
